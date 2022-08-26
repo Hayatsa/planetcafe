@@ -1,0 +1,22 @@
+[
+    {
+      "model": "planetcafeapi.menuitem",
+      "pk": 1,
+      "fields": {
+        "title": "BLT",
+        "description": "A clasic with bacon, lettuce, and tomato",
+        "price": 4.99,
+        "type": "Breakfast"
+      }
+    },
+    {
+      "model": "planetcafeapi.menuitem",
+      "pk": 2,
+      "fields": {
+        "title": "Egg croissant",
+        "description": "Buttery croissant with egg and cheese",
+        "price": 5.99,
+        "type": "Breakfast"
+      }
+    }
+]
